@@ -17,7 +17,7 @@ Scraping [https://www.bizbuysell.com/established-businesses-for-sale/](https://w
    ```sh 
    cd ~/Projects/Scrapy/bizbuysell
    ```
-2. 3. Run this to get json file:
+2. Run this to get json file:
    ```sh 
    scrapy crawl bizbuysell -o bizbuysell.json
    ```
